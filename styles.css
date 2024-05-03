@@ -79,7 +79,21 @@ h3{
         border-radius: 20px;
         flex-basis: 100%;
         max-width: 380px;
-        margin: 0 auto;
+
+    }
+    #header1{
+        background-color: rgb(206,228,254);
+        text-align: center;
+
+        border-radius: 20px;
+        font-size: 15px;
+    }
+
+    .uade{
+
+        border-radius: 20px;
+        flex-basis: 100%;
+        max-width: 280px;
     }
 
 }
